@@ -32,7 +32,7 @@ Progress notes:
 | **Original page link** | **Modified page link** | **Translation updated** | **Comments** | **Website update status** |
 |------------------------|------------------------|------------|--------------|---------------------------|
 | [CRL200MC](https://www.cooray.ru/crl200mc/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT](https://github.com/RomanTurAliance/COORAY_site/blob/crl200mc/crl200mc_-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA.html) | ✅ |  | ☐ |
-| [CRL200MYC](https://www.cooray.ru/crl200myc/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT]() | ☐ |  | ☐ |
+| [CRL200MYC](https://www.cooray.ru/crl200myc/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT](https://github.com/RomanTurAliance/COORAY_site/blob/crl200myc/crl200myc_-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA.html) | ✅ |  | ☐ |
 | [CRL200MSYC](https://www.cooray.ru/crl200msyc/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT]() | ☐ |  | ☐ |
 | [CRL200MSC](https://www.cooray.ru/crl200msc/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT]() | ☐ |  | ☐ |
 | [CRL200ML](https://www.cooray.ru/crl200ml/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT]() | ☐ |  | ☐ |
