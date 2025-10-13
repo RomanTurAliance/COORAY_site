@@ -45,7 +45,7 @@ Progress notes:
 | 12. | [CRL200MSE](https://www.cooray.ru/crl200mse/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT](https://github.com/RomanTurAliance/COORAY_site/blob/crl200mse/crl200mse_-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA.html) | ✅ |  | ☐ |
 | 13. | [CRL-DT52](https://www.cooray.ru/crl-dt52/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT](https://github.com/RomanTurAliance/COORAY_site/tree/crl-dt52) | ✅ | When refreshing the page, load an image with the parameters table | ☐ |
 | 14. | [CRL46M](https://www.cooray.ru/crl46m/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT](https://github.com/RomanTurAliance/COORAY_site/tree/crl46m) | ✅ | When refreshing the page, load an image with the machines general view | ☐ |
-| 15. | [CRL46MY](https://www.cooray.ru/crl46my/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT]() | ☐ |  | ☐ |
+| 15. | [CRL46MY](https://www.cooray.ru/crl46my/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT](https://github.com/RomanTurAliance/COORAY_site/tree/crl46my) | ✅ | When refreshing the page, load an image with the machines general view | ☐ |
 | 16. | [CRL52M](https://www.cooray.ru/crl52m/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT]() | ☐ |  | ☐ |
 | 17. | [CRL52MY](https://www.cooray.ru/crl52my/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT]() | ☐ |  | ☐ |
 |  |  |  |  |  |  |
