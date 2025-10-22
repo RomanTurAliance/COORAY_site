@@ -54,7 +54,7 @@ Progress notes:
 | 20. | [CRL46T](https://www.cooray.ru/crl46t/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT](https://github.com/RomanTurAliance/COORAY_site/blob/crl46t/crl46t_-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA.html) | ✅ |  | ☐ |
 | 21. | [CRL52T](https://www.cooray.ru/crl52t/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT](https://github.com/RomanTurAliance/COORAY_site/blob/crl52t/crl52t_-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA.html) | ✅ |  | ☐ |
 |  |  |  |  |  |  |
-| 22. | [CRL-MT](https://www.cooray.ru/cr-mt/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT]() | ☐ |  | ☐ |
+| 22. | [CRL-MT](https://www.cooray.ru/cr-mt/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT](https://github.com/RomanTurAliance/COORAY_site/tree/cr-mt) | ✅ | When refreshing the page, load an image with the parameters table | ☐ |
 |  |  |  |  |  |  |
 | 23. | [TG1200](https://www.cooray.ru/5-%D0%BE%D1%81%D0%B5%D0%B2%D0%BE%D0%B9-tg1200/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT]() | ☐ |  | ☐ |
 | 24. | [TG1000](https://www.cooray.ru/5-%D0%BE%D1%81%D0%B5%D0%B2%D0%BE%D0%B9-tg1000/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT]() | ☐ |  | ☐ |
