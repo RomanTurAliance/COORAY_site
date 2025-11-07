@@ -66,7 +66,7 @@ Progress notes:
 | 30. | [TG100 TG160](https://www.cooray.ru/5-%D0%BE%D1%81%D0%B5%D0%B2%D0%BE%D0%B9-tg100c%C2%B7tg160/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT](https://github.com/RomanTurAliance/COORAY_site/blob/tg100c_tg160/tg100c%C2%B7tg160_-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA.html) | ✅ | Pay attention: the specification image has been replaced with a table (the picture is commented out). <br>Table have been updated according to the new catalog (machine model changed from TCG100C/TG160 to TG160 according to the new catalog) | ☐ |
 |  |  |  |  |  |  |
 | 31. | [VMC-V13](https://www.cooray.ru/vmc-v13/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT](https://github.com/RomanTurAliance/COORAY_site/blob/vmc-v13/vmc-v13_-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA.html) | ✅ | Added a table with parameters | ☐ |
-| 32. | [VMC-V6500](https://www.cooray.ru/vmc-v6500/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT]() | ⏳ |  | ☐ |
+| 32. | [VMC-V6500](https://www.cooray.ru/vmc-v6500/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT](https://github.com/RomanTurAliance/COORAY_site/blob/vmc-v6500/vmc-v6500_-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA.html) | ✅ | Added a table with parameters | ☐ |
 | 33. | [FD-T1600](https://www.cooray.ru/fd-t1600/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT]() | ☐ |  | ☐ |
 | 34. | [VMC-1890L](https://www.cooray.ru/vmc-1890l/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT]() | ☐ |  | ☐ |
 | 35. | [VMC1580](https://www.cooray.ru/vmc-1580/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT]() | ☐ |  | ☐ |
