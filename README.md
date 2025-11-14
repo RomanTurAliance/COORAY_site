@@ -70,7 +70,7 @@ Progress notes:
 | 33. | [FD-T1600](https://www.cooray.ru/fd-t1600/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT](https://github.com/RomanTurAliance/COORAY_site/blob/fd-t1600/fd-t1600_-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA.html) | ✅ | Added two tables with parameters | ☐ |
 | 34. | [VMC-1890L](https://www.cooray.ru/vmc-1890l/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT](https://github.com/RomanTurAliance/COORAY_site/blob/vmc-1890l/vmc-1890l_-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA.html) | ✅ | Added two tables with parameters | ☐ |
 | 35. | [VMC1580](https://www.cooray.ru/vmc-1580/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT](https://github.com/RomanTurAliance/COORAY_site/blob/vmc-1580/vmc-1580_-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA.html) | ✅ | Added two tables with parameters | ☐ |
-| 36. | [FDG-650](https://www.cooray.ru/fdg-650/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT]() | ☐ |  | ☐ |
+| 36. | [FDG-650](https://www.cooray.ru/fdg-650/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT](https://github.com/RomanTurAliance/COORAY_site/blob/fdg-650/fdg-650_-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA.html) | ✅ | Added a table with parameters | ☐ |
 | 37. | [LMMC-4032](https://www.cooray.ru/lmmc-4032/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT]() | ☐ |  | ☐ |
 | 38. | [FHMC-630](https://www.cooray.ru/fhmc-630/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT]() | ☐ |  | ☐ |
 |  |  |  |  |  |  |
