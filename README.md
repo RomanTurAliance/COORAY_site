@@ -74,7 +74,7 @@ Progress notes:
 | 37. | [LMMC-4032](https://www.cooray.ru/lmmc-4032/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT](https://github.com/RomanTurAliance/COORAY_site/blob/lmmc4032/lmmc4032_-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA.html) | ✅ | Added two tables with parameters | ☐ |
 | 38. | [FHMC-630](https://www.cooray.ru/fhmc-630/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT](https://github.com/RomanTurAliance/COORAY_site/blob/fhmc-630/fhmc-630_-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA.html) | ✅ | Added a table with parameters | ☐ |
 |  |  |  |  |  |  |
-| 39. | [BQ1280](https://www.cooray.ru/bq1280/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT]() | ☐ |  | ☐ |
+| 39. | [BQ1280](https://www.cooray.ru/bq1280/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT](https://github.com/RomanTurAliance/COORAY_site/blob/bq1280/bq1280_-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA.html) | ✅ | Added a table with parameters | ☐ |
 |  |  |  |  |  |  |
 | 40. | [S1500](https://www.cooray.ru/s1500a-b-c/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT]() | ☐ |  | ☐ |
 |  |  |  |  |  |  |
