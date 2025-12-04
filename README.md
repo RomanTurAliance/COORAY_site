@@ -78,7 +78,7 @@ Progress notes:
 |  |  |  |  |  |  |
 | 40. | [S1500](https://www.cooray.ru/s1500a-b-c/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT](https://github.com/RomanTurAliance/COORAY_site/tree/s1500a-b-c) | ✅ | Added a table with parameters.  When refreshing the page, load images with translation into Russian | ☐ |
 |  |  |  |  |  |  |
-| 41. | [CRL-OSL](https://www.cooray.ru/crl-osl/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT]() | ☐ |  | ☐ |
+| 41. | [CRL-OSL](https://www.cooray.ru/crl-osl/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT](https://github.com/RomanTurAliance/COORAY_site/blob/crl-osl/crl-osl_-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA.html) | ✅ | Pay attention: the specification image has been replaced with a table (the picture is commented out) | ☐ |
 |  |  |  |  |  |  |
 | 42. | [BF100L BF125L](https://www.cooray.ru/bf100l-bf125l/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT]() | ☐ |  | ☐ |
 |  |  |  |  |  |  |
