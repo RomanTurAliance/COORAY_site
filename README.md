@@ -76,7 +76,7 @@ Progress notes:
 |  |  |  |  |  |  |
 | 39. | [BQ1280](https://www.cooray.ru/bq1280/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT](https://github.com/RomanTurAliance/COORAY_site/blob/bq1280/bq1280_-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA.html) | ✅ | Added a table with parameters | ☐ |
 |  |  |  |  |  |  |
-| 40. | [S1500](https://www.cooray.ru/s1500a-b-c/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT]() | ☐ |  | ☐ |
+| 40. | [S1500](https://www.cooray.ru/s1500a-b-c/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT](https://github.com/RomanTurAliance/COORAY_site/tree/s1500a-b-c) | ✅ | Added a table with parameters.  When refreshing the page, load images with translation into Russian | ☐ |
 |  |  |  |  |  |  |
 | 41. | [CRL-OSL](https://www.cooray.ru/crl-osl/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT]() | ☐ |  | ☐ |
 |  |  |  |  |  |  |
