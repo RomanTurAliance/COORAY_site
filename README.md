@@ -80,7 +80,7 @@ Progress notes:
 |  |  |  |  |  |  |
 | 41. | [CRL-OSL](https://www.cooray.ru/crl-osl/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT](https://github.com/RomanTurAliance/COORAY_site/blob/crl-osl/crl-osl_-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA.html) | ✅ | Pay attention: the specification image has been replaced with a table (the picture is commented out) | ☐ |
 |  |  |  |  |  |  |
-| 42. | [BF100L BF125L](https://www.cooray.ru/bf100l-bf125l/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT]() | ☐ |  | ☐ |
+| 42. | [BF100L BF125L](https://www.cooray.ru/bf100l-bf125l/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT](https://github.com/RomanTurAliance/COORAY_site/blob/bf100l_br125l/bf100l-bf125l_-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA.html) | ✅ | Added two tables with parameters | ☐ |
 |  |  |  |  |  |  |
 | 43. | [D266](https://www.cooray.ru/d266/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT]() | ☐ |  | ☐ |
 
