@@ -83,9 +83,10 @@ Progress notes:
 | 42. | [BF100L BF125L](https://www.cooray.ru/bf100l-bf125l/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT](https://github.com/RomanTurAliance/COORAY_site/blob/bf100l_br125l/bf100l-bf125l_-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA.html) | ✅ | Added two tables with parameters | ☐ |
 |  |  |  |  |  |  |
 | 43. | [D266](https://www.cooray.ru/d266/-%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA/) | [GIT](https://github.com/RomanTurAliance/COORAY_site/tree/d266) | ✅ | Added a table with parameters. When refreshing the page, load an updated image with tool system description | ☐ |
-| 44. | [Home page](https://www.cooray.ru/) | [GIT]() | ☐ |  | ☐ |
-| 45. | [About us (intro)](https://www.cooray.ru/about/) | [GIT]() | ☐ |  | ☐ |
-| 46. | [Contact](https://www.cooray.ru/contact/) | [GIT]() | ☐ |  | ☐ |
+| 44. | [Home page](https://www.cooray.ru/) | [GIT](https://github.com/RomanTurAliance/COORAY_site/blob/home/home.html) | ✅ |  | ☐ |
+| 45. | [About us (intro)](https://www.cooray.ru/about/) | [GIT](https://github.com/RomanTurAliance/COORAY_site/blob/about/about.html) | ✅ |  | ☐ |
+| 46. | [Contact](https://www.cooray.ru/contact/) | [GIT](https://github.com/RomanTurAliance/COORAY_site/blob/contact/contact.html) | ✅ |  | ☐ |
+| 47. | [Home page pictures (header)](https://www.cooray.ru/) | [GIT](https://github.com/RomanTurAliance/COORAY_site/tree/home_pictures) | ✅ | File .docx with descrition and updated translation | ☐ |
 
 
 
